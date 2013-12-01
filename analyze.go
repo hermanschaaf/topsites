@@ -99,5 +99,7 @@ func main() {
 
 	read()
 
-	measureTimes()
+	countExtensions()
+
+	// measureTimes()
 }
